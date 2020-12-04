@@ -4,3 +4,5 @@ Stationary items:
 2)pencil
 3)ruler
 4)eraser
+5)sharpener
+6)highligher
