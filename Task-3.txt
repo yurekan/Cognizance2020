@@ -6,3 +6,4 @@ Stationary items:
 4)eraser
 5)sharpener
 6)highligher
+7)compass
