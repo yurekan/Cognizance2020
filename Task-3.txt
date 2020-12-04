@@ -3,4 +3,6 @@ Stationary items:
 1)pen
 2)pencil
 3)ruler
+4)sharpener
+5)compass
 
