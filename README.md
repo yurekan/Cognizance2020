@@ -24,3 +24,19 @@
     (which includes many packages and libraries. eg.,Numpy,Scipy IDE,Panda libraries etc.).
 3. Many popular IDEs are also available eg., Spyder IDE, PytCharm IDE etc.
 
+## Sample project 
+> *The program is used to find the minimum element from a list of elements along with its index in the list.*
+
+```python
+   lst = eval(input("Enter your list:"))
+   length = len(lst)
+   min_ele = lst[0]
+   min_index = 0
+   for i in range(1,length-1):
+       if lst[i] < min_ele:
+           min_ele = lst[i]
+           min_index = i
+    print("Given list is:",lst)
+    print("The minimum element of the given  list is")
+    print(min_ele,"at index",min_index)
+```
