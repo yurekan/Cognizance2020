@@ -63,3 +63,15 @@ Given list is: [2,3,4,-2,6,-7]
 
 The minimum element of the given  list is: -7 at index 5
 
+## Links Refered
+* [Link1](https://www.infoworld.com/article/3204016/what-is-python-powerful-intuitive-programming.html)
+
+
+* [Link2](https://www.python.org/doc/essays/blurb/)
+
+* [Link3](https://www.geeksforgeeks.org/python-features/)
+
+
+## Books Refered
+* Computer Science With Python by SUMITA ARORA
+* Saraswati Computer Science 
