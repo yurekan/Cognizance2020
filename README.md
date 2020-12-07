@@ -37,6 +37,29 @@
            min_ele = lst[i]
            min_index = i
     print("Given list is:",lst)
-    print("The minimum element of the given  list is")
+    print("The minimum element of the given  list is:")
     print(min_ele,"at index",min_index)
+
 ```
+### Explaination of the project:
+* **Line1** - Asking for the user to enter a  list.
+* **Line2** - Initialzing length of list       to variable "Length".
+* **Line3** - Initialzing first element of the list as minimum element.
+* **Line4** - Initialzing index of minimum element.
+* **Line5** - Loopin the variable "i" inside the list.
+* **Line6** - condition check, whether the element of list is less than the minimum element.
+* **Line7** - If the condition is TRUE ,then it modifies the minimum element.
+* **Line8** - If the condition is TRUE ,then it modifies the min_index to the index of minimum element.
+* **Line9** - Prints the given list.
+* **Line10** - Prints the minimum element.
+* **line11** - Prints the index of the minimum element.
+
+### Outout of the project :
+Enter your list: [2,3,4,-2,6,-7]
+
+
+Given list is: [2,3,4,-2,6,-7]
+
+
+The minimum element of the given  list is: -7 at index 5
+
